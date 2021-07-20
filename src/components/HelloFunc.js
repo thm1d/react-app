@@ -1,7 +1,7 @@
 import React from 'react'
 
-function HelloFunction(){
-	return <h1>Hello From Function!</h1>
+function HelloFunction(props){
+	return <h1>I Love { props.name } with { props.color } Color.</h1>
 }
 
 export default HelloFunction;

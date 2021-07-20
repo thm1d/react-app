@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 class HelloClass extends Component{
     render(){
-    	return <h1>Hello From Class!</h1>
+    	return <h1>Hello From Class! </h1>
     }
 }
 
