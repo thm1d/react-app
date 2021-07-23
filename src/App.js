@@ -9,9 +9,9 @@ function App() {
 	  <header className="App-header">
 		<img src={ logo } class="App-logo" alt="logo"/>
 		<h1> Hello Tahmid!</h1>
-		<HelloFunction name='Mango' color='Yellow'/>
+		{/* <HelloFunction name='Mango' color='Yellow'/>
 		<HelloFunction name='Orange' color='Green'/>
-		<HelloFunction name='Apple' color='Red'/>
+		<HelloFunction name='Apple' color='Red'/> */}
 		<HelloClass/>
 	  </header>
 	</div>
